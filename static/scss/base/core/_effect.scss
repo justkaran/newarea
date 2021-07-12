@@ -1,0 +1,169 @@
+/* Animte
+---------------------------*/
+@keyframes circle {
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+.animation-circle {
+    animation: circle 38s linear infinite;
+}
+
+
+
+/* Effect Section
+------------------------*/
+.effect-section {
+    position: relative;
+    overflow: hidden;
+}
+
+
+.svg-effect-top {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    right: 0;
+}
+
+.svg-effect-bottom-1 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;   
+}
+
+
+.svg-effect-1 {
+    width: 90%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.svg-effect-2 {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.svg-effect-3 {
+    width: 300px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    @include media-breakpoint-down(xl) {
+        width: 150px;
+    }
+}
+.svg-effect-4 {
+    width: 300px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    @include media-breakpoint-down(xl) {
+        width: 150px;
+    }
+}
+
+
+.divider-right {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    overflow: hidden;
+    pointer-events: none;
+
+    svg {
+        position: absolute;
+        top: -50%;
+        bottom: -50%;
+        left: 0;
+        height: 200%;
+    }
+}
+
+.divider-left {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    overflow: hidden;
+    pointer-events: none;
+    text-align: right;
+
+    svg {
+        position: absolute;
+        top: -50%;
+        bottom: -50%;
+        right: 0;
+        height: 200%;
+    }
+}
+
+
+@include media-breakpoint-up(lg) {
+    .sticky-lg-top-header {
+        top: 100px;
+    }
+}
+
+
+@keyframes pulse-border {
+    0% {
+        -webkit-transform: scale(0.8);
+        transform: scale(0.8);
+        opacity: 1;
+    }
+
+    100% {
+        -webkit-transform: scale(2);
+        transform: scale(2);
+        opacity: 0;
+    }
+}
+
+.after-shadow {
+    z-index: 1;
+    position: relative;
+
+    &:after {
+        content: "";
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+        border-radius: 50%;
+        animation: pulse-border 1500ms ease-out infinite;
+        pointer-events: none;
+        background: currentColor;
+        z-index: -1;
+    }
+}
