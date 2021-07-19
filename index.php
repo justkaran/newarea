@@ -30,52 +30,11 @@
     </div>
     <!-- End Preload -->
     <!-- Header -->
-    <header class="header-main header-dark fixed-top">
-        <!-- End Top Header -->
-        <nav class="navbar navbar-expand-lg navbar-dark">
-            <div class="container">
-                <!-- Logo -->
-                <a class="navbar-brand" href="index.html">
-                    <img class="logo-dark" src="static/img/cddr-logo.png"  title="" alt="Logo">
-                    <img class="logo-light" src="static/img/cddr-logo.png" title="" alt="Logo">
-                </a>
-                <!-- Logo -->
-                <!-- Mobile Toggle -->
-                <button class="navbar-toggler ms-auto me-2" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <!-- End Mobile Toggle -->
-                <!-- Menu -->
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav m-auto">
-                        <li class="nav-item">
-                            <a href="#organisations" class="nav-link">For Organisations</a>
-                            <label class="px-dropdown-toggle mob-menu"></label>
-                        </li>
-                        <li class="nav-item">
-                            <a href="about.html" class="nav-link">About us</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#cases" class="nav-link">Cases</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#contact" class="nav-link">
-                                Contact
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-                <!-- End Menu -->
-                <div class="nav flex-nowrap align-items-center">
-                    <!-- Nav Button -->
-                    <div class="nav-item d-none d-xl-block">
-                        <a href="#contact" class="btn btn-sm btn-primary mb-0 mx-2 text-nowrap">Contact us!</a>
-                    </div>
-                </div>
-            </div>
-        </nav>
-    </header>
-    <!-- Header End -->
+    <?php
+    include "header.php";
+    ?>
+    <!-- End Header -->
+
     <!-- Main -->
     <main>
         <!-- Home Banner -->
@@ -179,7 +138,7 @@
                                     <i class="bi bi-person-lines-fill"></i>
                                 </div>
                                 <h5>Match your tutors</h5>
-                                <p class="m-0">Connect your tutors with your learners or find new tutors in our network. And put our smart AI Codolino at your learners' side.</p>
+                                <p class="m-0">Connect your tutors with your learners or find new tutors in our network. And put our smart AI <br>Codolino</br> at your learners' side.</p>
                             </div>
                         </div>
                     </div>
@@ -321,7 +280,7 @@
                                         <div class="icon icon-lg icon-primary icon-primary-shadow  rounded-circle">
                                             <i class="bi bi-clipboard-data"></i>
                                         </div>
-                                        <h5 class="pt-3 h5 mb-2">Learners and Tutor Management</h5>
+                                        <h5 class="pt-3 h5 mb-2">Student and Tutor Management</h5>
                                         <p class="w-lg-90">As an administrator, you can not only track the progress of your learners - you and the tutor can also see exactly where they are getting stuck and give them the appropriate help.</p>
                                     </div>
                                 </div>
@@ -490,7 +449,7 @@
             <div class="container position-relative">
                 <div class="row section-heading justify-content-center">
                     <div class="col-lg-7 col-xl-6 text-center text-white">
-                        <h3 class="h1 mb-3">Organisations & Learners Stories</h3>
+                        <h3 class="h1 mb-3">Organisations & Students Stories.</h3>
                         <div class="lead">You have to have tried it yourself to imagine the easy and fast progress of CodeDoor learners. That's why we asked some alumni and tutors to tell us about their experiences.</div>
                     </div>
                 </div>
@@ -669,7 +628,7 @@
                             </div>
                             <div class="pt-3 text-center">
                                 <h6 class="mb-2 h5">Nora Schimang, CEO</h6>
-                                <span>Contact me, if you and your organisation want to know more about CodeDoor and how we can support you. I am looking forward to hearing from you.</span>
+                                <span>Contact me, if you and your organisation want to know more about CodeDoor and how we can support you. I am looking foward to hearing from you.</span>
                             </div>
                         </div>
                     </div>
@@ -839,64 +798,9 @@
     </main>
     <!-- End Main -->
     <!-- Footer -->
-    <footer class="bg-black footer border-top effect-section text-white-50 z-index-1">
-        <div class="mask bg-cover bg-no-repeat opacity-04 z-index--1" style="background-image: url(static/img/effect/bg-effect-1.png);"></div>
-        <div class="footer-top position-relative">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-6 col-lg-3 my-3">
-                        <div class="mb-4">
-                            <img src="static/img/cddr-logo.png" title="" alt="">
-                        </div>
-                        <p class="lead">Project based education made easy.</p>
-                        <div class="pt-1">
-                            <a class="icon icon-primary rounded-circle me-2" href="#"><i class="fab fa-google-play"></i></a>
-                            <a class="icon icon-primary rounded-circle" href="#"><i class="fab fa-apple"></i></a>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-lg-2 my-3">
-                        <h5 class="mb-3 text-white">Legal Stuff</h5>
-                        <ul class="list-unstyled white-link footer-links">
-                            <li>
-                                <a href="#">Imprint</a>
-                            </li>
-                            <li>
-                                <a href="#">Terms</a>
-                            </li>
-                            <li>
-                                <a href="#">Privacy</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="col-sm-6 col-lg-2 my-3">
-                        <h5 class="mb-3 text-white">About</h5>
-                        <ul class="list-unstyled white-link footer-links">
-                            <li>
-                                <a href="#contact">Team</a>
-                            </li>
-                            <li>
-                                <a href="#faq">FAQ</a>
-                            </li>
-                            <li>
-                                <a href="#">Career</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="footer-bottom footer-border py-2">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6 my-2">
-                        <div class="nav justify-content-center justify-content-md-start">
-                                <p class="m-0">© 2021 <a href="" class="text-reset">CodeDoor</a></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
+        <?php
+        include "footer.php";
+        ?>
     <!-- End Footer -->
     <!-- jquery -->
     <script src="static/js/jquery-3.5.1.min.js"></script>
