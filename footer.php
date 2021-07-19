@@ -15,16 +15,16 @@
                         </div>
                     </div>
                     <div class="col-sm-6 col-lg-2 my-3">
-                        <h5 class="mb-3 text-white">Legal Stuff</h5>
+                        <h5 class="mb-3 text-white">About</h5>
                         <ul class="list-unstyled white-link footer-links">
                             <li>
-                                <a href="#">Imprint</a>
+                                <a href="imprint.php">Imprint</a>
                             </li>
                             <li>
-                                <a href="#">Terms</a>
+                                <a href="policy.php">Privacy</a>
                             </li>
                             <li>
-                                <a href="#">Privacy</a>
+                                <a href="about.php">About</a>
                             </li>
                         </ul>
                     </div>
