@@ -180,7 +180,12 @@
                 </div>
                 <div class="row justify-content-center align-items-center">
                     <div class="col-lg-8 pe-xl-5 mb-4 mb-lg-0">
-                        <img src="https://i.imgur.com/SbtdDPB.png?1" title="" alt="">
+                    <div class="laptop-screen">
+                        <div class="laptop-screen-inner">
+                            <img src="static/img/platform2.png" title="platform" alt="image of the platform">
+                        </div>
+                        <img src="static/img/devices/macbook.svg" title="" alt="image of a macbook">
+                    </div>
                     </div>
                     <div class="col-lg-4">
                         <div class="d-flex mb-6">
