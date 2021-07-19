@@ -21,7 +21,7 @@
                                 <a href="imprint.php">Imprint</a>
                             </li>
                             <li>
-                                <a href="policy.php">Privacy</a>
+                                <a href="policy.php">Privacy Statement</a>
                             </li>
                             <li>
                                 <a href="about.php">About</a>
