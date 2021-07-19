@@ -22,7 +22,7 @@
                             <label class="px-dropdown-toggle mob-menu"></label>
                         </li>
                         <li class="nav-item">
-                            <a href="about.html" class="nav-link">About us</a>
+                            <a href="about.php" class="nav-link">About us</a>
                         </li>
                         <li class="nav-item">
                             <a href="#cases" class="nav-link">Cases</a>
