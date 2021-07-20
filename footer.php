@@ -10,7 +10,7 @@
                         </div>
                         <p class="lead">Project based education made easy.</p>
                         <div class="pt-1">
-                            <a class="icon icon-primary rounded-circle me-2" href="#"><i class="fab fa-arrow-up"></i></a>
+                            <a class="icon icon-primary rounded-circle me-2" href="#"><i class="fas fa-arrow-up"></i></a>
                         </div>
                     </div>
                     <div class="col-sm-6 col-lg-2 my-3">
