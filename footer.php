@@ -28,20 +28,6 @@
                             </li>
                         </ul>
                     </div>
-                    <div class="col-sm-6 col-lg-2 my-3">
-                        <h5 class="mb-3 text-white">About</h5>
-                        <ul class="list-unstyled white-link footer-links">
-                            <li>
-                                <a href="#contact">Team</a>
-                            </li>
-                            <li>
-                                <a href="#faq">FAQ</a>
-                            </li>
-                            <li>
-                                <a href="#">Career</a>
-                            </li>
-                        </ul>
-                    </div>
                 </div>
             </div>
         </div>
