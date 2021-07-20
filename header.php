@@ -22,13 +22,10 @@
                             <label class="px-dropdown-toggle mob-menu"></label>
                         </li>
                         <li class="nav-item">
-                            <a href="about.php" class="nav-link">About us</a>
+                            <a href="about.html" class="nav-link">About us</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#cases" class="nav-link">Cases</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#contact" class="nav-link">
+                            <a href="index.html/#contact" class="nav-link">
                                 Contact
                             </a>
                         </li>

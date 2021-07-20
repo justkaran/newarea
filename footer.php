@@ -10,21 +10,20 @@
                         </div>
                         <p class="lead">Project based education made easy.</p>
                         <div class="pt-1">
-                            <a class="icon icon-primary rounded-circle me-2" href="#"><i class="fab fa-google-play"></i></a>
-                            <a class="icon icon-primary rounded-circle" href="#"><i class="fab fa-apple"></i></a>
+                            <a class="icon icon-primary rounded-circle me-2" href="#"><i class="fab fa-arrow-up"></i></a>
                         </div>
                     </div>
                     <div class="col-sm-6 col-lg-2 my-3">
                         <h5 class="mb-3 text-white">About</h5>
                         <ul class="list-unstyled white-link footer-links">
                             <li>
-                                <a href="imprint.php">Imprint</a>
+                                <a href="imprint.html">Imprint</a>
                             </li>
                             <li>
-                                <a href="policy.php">Privacy Statement</a>
+                                <a href="policy.html">Privacy Statement</a>
                             </li>
                             <li>
-                                <a href="about.php">About</a>
+                                <a href="about.html">About</a>
                             </li>
                         </ul>
                     </div>
