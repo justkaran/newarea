@@ -17,13 +17,13 @@
                         <h5 class="mb-3 text-white">About</h5>
                         <ul class="list-unstyled white-link footer-links">
                             <li>
-                                <a href="imprint.html">Imprint</a>
+                                <a href="imprint.php">Imprint</a>
                             </li>
                             <li>
-                                <a href="policy.html">Privacy Statement</a>
+                                <a href="policy.php">Privacy Statement</a>
                             </li>
                             <li>
-                                <a href="about.html">About</a>
+                                <a href="about.php">About</a>
                             </li>
                         </ul>
                     </div>

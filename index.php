@@ -30,11 +30,11 @@
     </div>
     <!-- End Preload -->
     <!-- Header -->
-    <?php
-    include "header.php";
-    ?>
-    <!-- End Header -->
-
+      <!-- Header -->
+      <?php
+      include "header.php";
+      ?>
+      <!-- End Header -->
     <!-- Main -->
     <main>
         <!-- Home Banner -->
@@ -49,12 +49,8 @@
                         <h1 class="display-4 mb-3">Project based education made easy.</h1>
                         <div class="fs-5">Be empowered to deliver tailored digital learning content. Manage and administer your learners. Set free resources by using our supportive AI.</div>
                         <div class="pt-5">
-                            <a class="btn btn-light me-3 mb-2" href="#">
+                            <a class="btn btn-light me-3 mb-2" href="#builtforyou">
                                 Why CodeDoor is the right choice
-                            </a>
-                            <a class="btn btn-outline-light mb-2" href="#">
-                                <span class="btn--text">Watch video</span>
-                                <i class="bi bi-play-fill"></i>
                             </a>
                         </div>
                     </div>
@@ -73,7 +69,7 @@
                     <div class="col-sm-6 col-lg-3 pe-xl-5">
                         <h6 class="text-primary mb-3">The CodeDoor way supports your organisation:</h6>
                         <h3 class="mb-3">CodeDoor empowers you to enable others.</h3>
-                        <p class="m-0">Start now to deliver digital content autonomously, independently and tailored to your learners needs.</p><p>Try it out - without commitment and free of charge!</p>                    </div>
+                        <p class="m-0">Start now to deliver digital content autonomously, independently and tailored to your learners needs - from simple text based tasks to coding challenges!</p><p>Try it out - without commitment and free of charge!</p>                    </div>
                     <div class="col-sm-6 col-lg-3">
                         <div class="card shadow-hover">
                             <div class="card-body">
@@ -92,7 +88,7 @@
                                     <i class="bi bi-person-lines-fill"></i>
                                 </div>
                                 <h5>Offer project-based learning</h5>
-                                <p class="m-0">Give your learners the opportunity to learn in a project-based and sustainable way.<p></p>Bring your own projects, discover exstisting ones or create new projects with us.</p>
+                                <p class="m-0">Give your learners the opportunity to learn in a project-based and sustainable way.<p></p>Bring your own projects, discover existing ones or create new projects with us.</p>
                             </div>
                         </div>
                     </div>
@@ -114,16 +110,17 @@
         <!-- section -->
         <section class="section">
             <div class="container">
-                <div class="row g-3">
-                    <div class="col-sm-6 col-lg-3 pe-xl-5">
-                        <h6 class="text-primary mb-3">All Humans First</h6>
-                        <h3 class="mb-3">We are the perfect choice for your educational needs.</h3>
-                        <p class="m-0">What´s your digital content? CodeDoor supports you transporting it to your learners. </p>
+                <div class="row section-heading justify-content-center">
+                    <div class="col-lg-7 col-xl-6 text-center">
+                        <h3 class="h1 mb-3">All Humans First</h3>
+                        <p class="m-0">We are the perfect choice for your educational needs. What´s your digital content? CodeDoor supports you transporting it to your learners. </p>
                     </div>
-                    <div class="col-sm-6 col-lg-3">
+                </div>
+                <div class="row g-3">
+                    <div class="col-lg-4">
                         <div class="card shadow-hover">
                             <div class="card-body">
-                                <div class="icon icon-lg icon-primary rounded-circle mb-4 icon-primary-shadow">
+                                <div class="icon icon-lg icon-primary rounded mb-4">
                                     <i class="bi bi-person"></i>
                                 </div>
                                 <h5>Manage your learners</h5>
@@ -131,21 +128,21 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-lg-3">
+                    <div class="col-lg-4">
                         <div class="card shadow-hover">
                             <div class="card-body">
-                                <div class="icon icon-lg icon-primary rounded-circle mb-4 icon-primary-shadow">
+                                <div class="icon icon-lg icon-success rounded mb-4">
                                     <i class="bi bi-person-lines-fill"></i>
                                 </div>
                                 <h5>Match your tutors</h5>
-                                <p class="m-0">Connect your tutors with your learners or find new tutors in our network. And put our smart AI <br>Codolino</br> at your learners' side.</p>
+                                <p class="m-0">Connect your tutors with your learners or find new tutors in our network. And put our smart AI <span class="italic">Codolino</span> at your learners' side.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-lg-3">
+                    <div class="col-lg-4">
                         <div class="card shadow-hover">
                             <div class="card-body">
-                                <div class="icon icon-lg icon-primary rounded-circle mb-4 icon-primary-shadow">
+                                <div class="icon icon-lg icon-info rounded mb-4">
                                     <i class="bi bi-people"></i>
                                 </div>
                                 <h5>Build smart teams</h5>
@@ -157,29 +154,18 @@
             </div>
         </section>
         <!-- End section -->
-        <!-- section -->
-        <section class="section bg-gray-100">
+       <!-- section -->
+        <section class="section bg-gray-100" id="builtforyou">
             <div class="container">
-                <div class="row section-heading">
-                    <div class="col-lg-7 col-xl-6 mb-4 mb-lg-0">
-                        <h6 class="pb-3 text-primary">Built for you</h6>
-                        <h1 class="h1 mb-3">We have a solution for <br>
-                        <span class="text-primary"><span class="typed" data-elements="learners., tutors., organisations."></span></h1>
-                    </div>
-                    <div class="col-lg-3 col-xl-4 ms-auto">
-                        <div class="card">
-                            <div class="card-body p-3">
-                                <div class="only-icon only-icon-lg text-primary mb-3">
-                                    <i class="bi bi-chat-dots lh-1"></i>
-                                </div>
-                                <p class="lead">100% of the learners told us that they feel like starting another project on CodeDoor right away! We are incredibly proud to generate this motivation to learn!</p>
-                                <span><strong>Nora,</strong> CEO of CodeDoor</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
                 <div class="row justify-content-center align-items-center">
                     <div class="col-lg-8 pe-xl-5 mb-4 mb-lg-0">
+                        <div class="row section-heading">
+                            <div class="col-lg-7 col-xl-9 mb-2 mb-lg-0">
+                                <h6 class="pb-3 text-primary">Built for you</h6>
+                                <h1 class="h1 mb-3">We have a solution for <br>
+                                <span class="text-primary" style="color:#e01fe7 !important;"><span class="typed" data-elements="learners., tutors., organisations."></span></h1>
+                            </div>
+                        </div>
                     <div class="laptop-screen">
                         <div class="laptop-screen-inner">
                             <img src="static/img/platform2.png" title="platform" alt="image of the platform">
@@ -187,7 +173,7 @@
                         <img src="static/img/devices/macbook.svg" title="" alt="image of a macbook">
                     </div>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-lg-4 pt-3">
                         <div class="d-flex mb-6">
                             <div class="icon icon-primary rounded-circle mb-4 icon-primary-shadow">
                                 <span class="fs-5 lh-1">01</span>
@@ -253,7 +239,7 @@
                                             <i class="bi bi-layout-text-window"></i>
                                         </div>
                                         <h5 class="pt-3 h5 mb-2">Project Based Learning</h5>
-                                        <p class="w-lg-90">Build your own projects - tailor-made for your learners. Take over existing projects that have been created for your target group and already tested. Or: let us train our AI Codolino to build projects for you!</p>
+                                        <p class="w-lg-90">Build your own projects - tailor-made for your learners. Take over existing projects that have been created for your target group and already tested. Or: let us train our AI <span class="italic">Codolino</span> to build projects for you!</p>
                                     </div>
                                 </div>
                             </div>
@@ -264,7 +250,7 @@
                                             <i class="bi bi-emoji-sunglasses"></i>
                                         </div>
                                         <h5 class="pt-3 h5 mb-2">AI supported Tutoring</h5>
-                                        <p class="w-lg-90">Get support from tutors directly on CodeDoor - or let our smart AI Codolino give valuable advice!</p>
+                                        <p class="w-lg-90">Get support from tutors directly on CodeDoor - or let our smart AI <span class="italic">Codolino</span> give valuable advice!</p>
                                     </div>
                                 </div>
                             </div>
@@ -285,7 +271,7 @@
                                         <div class="icon icon-lg icon-primary icon-primary-shadow  rounded-circle">
                                             <i class="bi bi-clipboard-data"></i>
                                         </div>
-                                        <h5 class="pt-3 h5 mb-2">Student and Tutor Management</h5>
+                                        <h5 class="pt-3 h5 mb-2">Learners and Tutor Management</h5>
                                         <p class="w-lg-90">As an administrator, you can not only track the progress of your learners - you and the tutor can also see exactly where they are getting stuck and give them the appropriate help.</p>
                                     </div>
                                 </div>
@@ -361,7 +347,12 @@
                         <div class="effect-section w-100 text-center">
 
                             <div>
-                                <img width="400" src="static/img/devices/macbook.svg" title="" alt="">
+                                    <div class="laptop-screen">
+                                        <div class="laptop-screen-inner">
+                                            <img src="static/img/platform.png" title="platform" alt="image of the platform">
+                                        </div>
+                                        <img src="static/img/devices/macbook.svg" title="" alt="image of a macbook">
+                                    </div>
                             </div>
                         </div>
                     </div>
@@ -378,7 +369,7 @@
                                 <i class="bi bi-person-plus"></i>
                             </div>
                             <h5>Tutors</h5>
-                            <p>Bring your own tutors to CodeDoor or have your learners supported by our smart AI Codolino.</p>
+                            <p>Bring your own tutors to CodeDoor or have your learners supported by our smart AI <span class="italic">Codolino</span>.</p>
                         </div>
                         <div class="py-3 text-lg-end">
                             <div class="icon icon-lg icon-primary-light rounded-circle mb-4">
@@ -405,11 +396,11 @@
                     <div class="row">
                         <div class="col-lg-6">
                             <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-                            <lottie-player src="https://assets6.lottiefiles.com/packages/lf20_w1xjsndd.json"  background="transparent"  speed="1"  style="width: 500px; height: 500px; padding-left: 100px"  loop  autoplay></lottie-player>    
+                            <lottie-player src="https://assets1.lottiefiles.com/packages/lf20_ukjcyybw.json"  background="transparent"  speed="1"  style="width: 500px; height: 500px; padding-left: 100px"  loop  autoplay></lottie-player>
                         </div>
                         <div class="col-lg-6 ps-lg-7 ps-xxl-10">
                             <h3 class="h2">The evolution of education:<br> Individual tutoring with AI</h3>
-                            <p class="lead pb-3">Computers have been our helpers for decades. But so far they have only been able to do exactly what we have told them to do beforehand. That is changing now: In Codolino, our smart AI, CodeDoor learners find an almost human sparring partner.</p><p>Codolino amazes CodeDoor users every day. As an individual tutor, he stands by the learners and helps when they get stuck.</p><p>Codolino does not tell learners the solution, but supports the process of finding the right answer. He is always friendly and encouraging.</p>
+                            <p class="lead pb-3">Computers have been our helpers for decades. But so far they have only been able to do exactly what we have told them to do beforehand. That is changing now: In <span class="italic">Codolino</span>, our smart AI, CodeDoor learners find an almost human sparring partner.</p><p><span class="italic">Codolino</span> amazes CodeDoor users every day. As an individual tutor, it stands by the learners and helps when they get stuck.</p><p><span class="italic">Codolino</span> does not tell learners the solution, but supports the process of finding the right answer. He is always friendly and encouraging.</p>
                             <ul class="list-unstyled position-relative w-lg-90">
                                 <li class="position-absolute top-0 bottom-0 start-0 border-start border-2 z-index--1 ms-4"></li>
                                 <li class="d-flex mb-4">
@@ -418,7 +409,8 @@
                                     </div>
                                     <div class="col ps-3">
                                         <h5 class="mb-1 h6">Develop projects</h5>
-                                        <p class="m-0">Codolino helps you to develop a project that is tailored to the needs of your target group.</p>
+                                        <!-- Write HTML code that makes the span cursive-->
+                                        <p class="m-0"> <span class="italic">Codolino</span> helps you to develop a project that is tailored to the needs of your target group.</p>
                                     </div>
                                 </li>
                                 <li class="d-flex mb-4">
@@ -427,7 +419,7 @@
                                     </div>
                                     <div class="col ps-3">
                                         <h5 class="mb-1 h6">Support learners</h5>
-                                        <p class="m-0">Codolino assists learners in their project work. If they get stuck, they can ask Codolino for help.</p>
+                                        <p class="m-0"><span class="italic">Codolino</span> assists learners in their project work. If they get stuck, they can ask <span class="italic">Codolino</span> for help.</p>
                                     </div>
                                 </li>
                                 <li class="d-flex mb-4">
@@ -436,7 +428,7 @@
                                     </div>
                                     <div class="col ps-3">
                                         <h5 class="mb-1 h6">Motivation</h5>
-                                        <p class="m-0">Codolino motivates CodeDoor learners to be at their best every day. Codolino greets the users every day with an encouraging sentence.</p>
+                                        <p class="m-0"><span class="italic">Codolino</span> motivates CodeDoor learners to be at their best every day. <span class="italic">Codolino</span> greets the users every day with an encouraging sentence.</p>
                                     </div>
                                 </li>
                             </ul>
@@ -445,16 +437,84 @@
                 </div>
             </section>
             <!-- End Section -->
-<!--
+  <!-- Section -->
+  <section class="section">
+    <div class="container position-relative">
+        <div class="row section-heading justify-content-center">
+            <div class="col-lg-7 text-center">
+                <h3 class="h1 mb-3">Our partners make it all happen</h3>
+                <div class="lead">We could not do it without the great support of our partners.</div>
+            </div>
+        </div>
+        <div class="owl-carousel" data-items="5" data-nav-dots="false" data-lg-items="5" data-md-items="3" data-sm-items="3" data-xs-items="2" data-space="10" data-autoplay="true">
+            <div class="card mx-1">
+                <div class="card-body text-center">
+                    <img src="https://i.imgur.com/r4MOfxO.png" title="" alt="">
+                </div>
+            </div>
+            <div class="card mx-1">
+                <div class="card-body text-center">
+                    <img src="https://i.imgur.com/FJeMwB2.png" title="" alt="">
+                </div>
+            </div>
+            <div class="card mx-1">
+                <div class="card-body text-center">
+                    <img src="https://i.imgur.com/IYrmEVI.png" title="" alt="">
+                </div>
+            </div>
+            <div class="card mx-1">
+                <div class="card-body text-center">
+                    <img src="https://i.imgur.com/DkOnpjh.png" title="" alt="">
+                </div>
+            </div>
+            <div class="card mx-1">
+                <div class="card-body text-center">
+                    <img src="https://i.imgur.com/d0P11ZW.png" title="" alt="">
+                </div>
+            </div>
+            <div class="card mx-1">
+                <div class="card-body text-center">
+                    <img src="https://i.imgur.com/uOsjGzo.png" title="" alt="">
+                </div>
+            </div>
+            <div class="card mx-1">
+                <div class="card-body text-center">
+                    <img src="https://i.imgur.com/WGwh6uD.png" title="" alt="">
+                </div>
+            </div>
+            <div class="card mx-1">
+                <div class="card-body text-center">
+                    <img src="https://i.imgur.com/gVGqL4z.png" title="" alt="">
+                </div>
+            </div>
+            <div class="card mx-1">
+                <div class="card-body text-center">
+                    <img src="https://i.imgur.com/tcvN0SJ.png" title="" alt="">
+                </div>
+            </div>
+            <div class="card mx-1">
+                <div class="card-body text-center">
+                    <img src="https://i.imgur.com/IFcSDpb.png" title="" alt="">
+                </div>
+            </div>
+            <div class="card mx-1">
+                <div class="card-body text-center">
+                    <img src="https://i.imgur.com/M8Jotuc.png" title="" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Section -->
         <!-- section -->
-        <section class="section effect-section bg-dark" id="cases">
+      <!--  <section class="section effect-section bg-dark" id="cases">
             <div class="svg-effect-2 opacity-1">
                 <img class="svg_img text-white" src="static/img/effect/dot-effect-1.svg" title="" alt="">
             </div>
             <div class="container position-relative">
                 <div class="row section-heading justify-content-center">
                     <div class="col-lg-7 col-xl-6 text-center text-white">
-                        <h3 class="h1 mb-3">Organisations & Students Stories.</h3>
+                        <h3 class="h1 mb-3">Organisations & Learners Stories</h3>
                         <div class="lead">You have to have tried it yourself to imagine the easy and fast progress of CodeDoor learners. That's why we asked some alumni and tutors to tell us about their experiences.</div>
                     </div>
                 </div>
@@ -609,93 +669,53 @@
                 </div>
             </div>
         </section>
-        <!-- End section -->
-        <!-- section -->
-        <section class="section" id="contact">
-            <div class="container">
-                <div class="row section-heading justify-content-center">
-                    <div class="col-lg-7 col-xl-6 text-center">
-                        <h6 class="pb-3 text-primary">Many people form CodeDoor. Some are permanent employees, others work with us on a freelance basis. And a multitude of smart and generous people donate their time and knowledge to your learners by supporting them as tutors!</h6>
-                        <h3 class="h1 mb-3">Contact us!</h3>
-                        <div class="lead">We are happy to hear from you. Meet some of our team members and find out, who to best contact:</div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="hover-scale">
-                            <div class="hover-scale-in rounded position-relative hover-opacity-1">
-                                <img src="static/img/1000x1000.jpg" title="" alt="">
-                                <div class="nav position-absolute bottom-0 start-0 end-0 mx-5 justify-content-center m-3 bg-white py-2 rounded-pill px-1 hover-opacity-in">
-                                        <a class="icon icon-primary mx-1 icon-sm rounded-circle" href="#">
-                                        <i class="fab fa-linkedin-in"></i>
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="pt-3 text-center">
-                                <h6 class="mb-2 h5">Nora Schimang, CEO</h6>
-                                <span>Contact me, if you and your organisation want to know more about CodeDoor and how we can support you. I am looking foward to hearing from you.</span>
-                            </div>
+        <!-- Section -->
+        <section class="section bg-gray-100">
+            <div class="container" id="contact">
+                <div class="row g-3 align-items-center flex-row-reverse">
+                    <div class="col-lg-6 ps-xxl-12">
+                        <h5 class="display-6 mb-3">Contact us</h5>
+                        <p class="lead">Our Senior Account Manager Anna Helfrich is happy to help.</p>
+                        <div>
+                            <a href="mailto:getstarted@codedoor.org?subject=Get Started CodeDoor&body=Hi Anna, I would like to learn more about CodeDoor and how to get started. Kind Regards" class="btn btn-primary"> Contact Anna</a>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="hover-scale">
-                            <div class="hover-scale-in rounded position-relative hover-opacity-1">
-                                <img src="static/img/1000x1000.jpg" title="" alt="">
-                                <div class="nav position-absolute bottom-0 start-0 end-0 mx-5 justify-content-center m-3 bg-white py-2 rounded-pill px-1 hover-opacity-in">
-                                <a class="icon icon-primary mx-1 icon-sm rounded-circle" href="#">
-                                        <i class="fab fa-linkedin-in"></i>
-                                    </a>
+                    
+                    <div class="col-lg-6">
+                        <div class="effect-section">
+                            <div class="svg-effect-3">
+                                <img class="svg_img text-primary" src="static/img/effect/effect-style-1.svg" title="" alt="">
+                            </div>
+                            <div class="svg-effect-4">
+                                <img class="svg_img text-success" src="static/img/effect/effect-style-1.svg" title="" alt="">
+                            </div>
+                            <div class="position-relative px-8">
+                                <img src="static/img/anna.jpg" title="" alt="">
+                            </div>
+                            <div class="card position-absolute bottom-0 end-0 col-8 col-sm-8 mb-4">
+                                <div class="card-body d-flex p-3">
+                                    <div class="icon icon-primary-light rounded-circle mb-4">
+                                        <a href="mailto:getstarted@codedoor.org?subject=Get Started CodeDoor&body=Hi Anna, I would like to learn more about CodeDoor and how to get started. Kind Regards"> <i class="bi bi-mailbox"></i></a>
+                                    </div>
+                                    <div class="col ps-3">
+                                        <h6>Anna Helfrich</h6>
+                                        <p class="m-0">Senior Account Manager</p>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="pt-3 text-center">
-                                <h6 class="mb-2 h5">Farid Bidardel, Co-Founder</h6>
-                                <span>I love working with our wonderful funding partners. If you are interested in supporting our work as well, please get in touch!</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="hover-scale">
-                            <div class="hover-scale-in rounded position-relative hover-opacity-1">
-                                <img src="static/img/1000x1000.jpg" title="" alt="">
-                                <div class="nav position-absolute bottom-0 start-0 end-0 mx-5 justify-content-center m-3 bg-white py-2 rounded-pill px-1 hover-opacity-in">
-                                        <a class="icon icon-primary mx-1 icon-sm rounded-circle" href="#">
-                                        <i class="fab fa-linkedin-in"></i>
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="pt-3 text-center">
-                                <h6 class="mb-2 h5">Anna Helfrich, Senior Account Manager</h6>
-                                <span>Ask me anything about CodeDoor! If you have questions regarding our work and don´t know whom to ask - I am happy to answer them.</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="hover-scale">
-                            <div class="hover-scale-in rounded position-relative hover-opacity-1">
-                                <img src="static/img/1000x1000.jpg" title="" alt="">
-                                <div class="nav position-absolute bottom-0 start-0 end-0 mx-5 justify-content-center m-3 bg-white py-2 rounded-pill px-1 hover-opacity-in">
-                                        <a class="icon icon-primary mx-1 icon-sm rounded-circle" href="#">
-                                        <i class="fab fa-linkedin-in"></i>
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="pt-3 text-center">
-                                <h6 class="mb-2 h5">Codolino, AI</h6>
-                                <span>I support your learners! In all modesty, I can say that I am probably the smartest (some say also the cutest) AI on the planet. </span>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-       <!-- End section -->
-        <!-- section -->
-        <section class="section bg-gray-100" id="faq">
+        <!-- End Section -->
+          <!-- section -->
+          <section class="section bg-gray-100">
             <div class="container">
                 <div class="row section-heading justify-content-center">
                     <div class="col-lg-7 col-xl-6 text-center">
                         <h6 class="pb-3 text-primary">We Are Here To Help You</h6>
-                        <h3 class="h1 mb-3">Frequently Asked Questions.</h3>
+                        <h3 class="h1 mb-3">Frequently Asked Questions</h3>
                         <div class="lead">We do our best to describe on this website exactly what CodeDoor does and can do. You probably still have some unanswered questions. Maybe this FAQ will help you. If not: please write to us directly at hello at codedoor.org</div>
                     </div>
                 </div>
@@ -710,19 +730,21 @@
                                 </p>
                                 <div id="collapse_01_1" class="accordion-collapse collapse show" aria-labelledby="heading_01_1" data-bs-parent="#accordionExample_01">
                                     <div class="accordion-body">
-                                        <strong>We are developers who have built a product that enables non-profit organisations to deliver digital content to their learners and beneficiaries.</strong> This is especially true if none of the team members have experience with it.</p><p>When an organisation decides to use CodeDoor, we support them from day one and stay by their side until all learners have learned everything there is to learn. We are in for the long term.</p>
+                                        We are a non-profit organization that has created a product that enables non-profit organisations to deliver digital content to their learners and beneficiaries. This is especially true if none of the team members have experience with it.
+                                        We help you build or find perfectly suited projects for your learners. One for each learner or the same for a whole group. We give you the chance to manage your learners easily, to follow their progress in an uncomplicated way and to intervene if necessary. Or ask a tutor to give your learners a hand.
+                                        When an organisation decides to use CodeDoor, we support them from day one and stay by their side until all learners have learned everything there is to learn. We are in for the long term.
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item bg-white">
                                 <p class="m-0 accordion-header" id="heading_01_2">
                                     <button class="py-3 accordion-button text-start fw-bold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_01_2" aria-expanded="false" aria-controls="collapse_01_2">
-                                        Is CodeDoor a Coding School?
+                                        Do you also provide your own content?
                                     </button>
                                 </p>
                                 <div id="collapse_01_2" class="accordion-collapse collapse" aria-labelledby="heading_01_2" data-bs-parent="#accordionExample_01">
                                     <div class="accordion-body">
-                                        <strong>No. Our software helps your learners understand digital content by working with it on a project-by-project basis.</strong>We help you build or find perfectly suited projects for your learners. One for each learner or the same for a whole group. We give you the chance to manage your learners easily, to follow their progress in an uncomplicated way and to intervene if necessary. Or ask a tutor to give your learners a hand. In addition, we provide you with our smart AI Codolino - so your learners never walk alone.
+                                        Yes, we do have some projects about learning coding, if you are new to this.
                                     </div>
                                 </div>
                             </div>
@@ -734,7 +756,7 @@
                                 </p>
                                 <div id="collapse_01_3" class="accordion-collapse collapse" aria-labelledby="heading_01_3" data-bs-parent="#accordionExample_01">
                                     <div class="accordion-body">
-                                        <strong>Yes please! We are happy to show you CodeDoor free of charge and without obligation.</strong> Send us a message to hello at codedoor.org and let's make an appointment for a video call right away!
+                                        Yes please! We are happy to show you CodeDoor free of charge and without obligation.</strong> Send us a message to hello at codedoor.org and let's make an appointment for a video call right away!
                                     </div>
                                 </div>
                             </div>
@@ -745,36 +767,36 @@
                             <div class="accordion-item bg-white">
                                 <p class="m-0 accordion-header" id="heading_02_1">
                                     <button class="py-3 accordion-button text-start fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_02_1" aria-expanded="true" aria-controls="collapse_02_1">
-                                        What kind of organisations are you actually addressing?
+                                        What organisations are you addressing?
                                     </button>
                                 </p>
                                 <div id="collapse_02_1" class="accordion-collapse collapse show" aria-labelledby="heading_02_1" data-bs-parent="#accordionExample_02">
                                     <div class="accordion-body">
-                                        <strong>We mean any non-profit organisation, educational institution or initiative that wants to deliver digital content easily and successfully.</strong>
+                                        We mean any organisation, we welcome non-profit and educational institutions as well as initiatives that wants to deliver digital content easily and successfully for the betterment of the world.
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item bg-white">
                                 <p class="m-0 accordion-header" id="heading_02_2">
                                     <button class="py-3 accordion-button text-start fw-bold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_02_2" aria-expanded="false" aria-controls="collapse_02_2">
-                                       What should be the target group of the organisation?
+                                        Who should be the target group of the organisation?
                                     </button>
                                 </p>
                                 <div id="collapse_02_2" class="accordion-collapse collapse" aria-labelledby="heading_02_2" data-bs-parent="#accordionExample_02">
                                     <div class="accordion-body">
-                                        <strong>Your target group should include people who are currently underrepresented in the IT and software labour market.</strong> We have had the best experience when the learners are already over 16 years old and have a basic knowledge of the english language.
+                                        Your target group should include people who are currently underrepresented in the IT and software labour market. We have had the best experience when the learners are already over 16 years old and have a basic knowledge of the english language.
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item bg-white">
                                 <p class="m-0 accordion-header" id="heading_02_3">
                                     <button class="py-3 accordion-button text-start fw-bold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_02_3" aria-expanded="false" aria-controls="collapse_02_3">
-                                        For which digital content is CodeDoor best suited?
+                                        For which digital learning content is CodeDoor best suited?
                                     </button>
                                 </p>
                                 <div id="collapse_02_3" class="accordion-collapse collapse" aria-labelledby="heading_02_3" data-bs-parent="#accordionExample_02">
                                     <div class="accordion-body">
-                                        <strong>The topic of your digital content can be very diverse!</strong> Of course, IT and software knowledge are particularly obvious, but CodeDoor is also used in other areas, e.g. for design thinking, scientific or mathematical training.
+                                        The topic of your digital learning content can be very diverse! CodeDoor is used in particular in areas that solve social and environmental issues via technology, e.g. for environmental topics, design thinking, scientific or mathematical training, space education, job training for budding software developers.
                                     </div>
                                 </div>
                             </div>
@@ -791,7 +813,7 @@
                         <h3 class="h1">CodeDoor opens learning doors</h3>
                         <p class="lead">We are looking forward to working with you. Let's get started right away!</p>
                         <div>
-                            <a class="btn btn-primary" href="#contact">Get Started</a>
+                            <a href="mailto:getstarted@codedoor.org?subject=Get Started CodeDoor&body=Hi Anna, I would like to learn more about CodeDoor and how to get started. Kind Regards" class="btn btn-primary"> Get Started</a>
                         </div>
                         <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
                         <lottie-player src="https://assets7.lottiefiles.com/packages/lf20_Kim0Ae.json"  background="transparent"  speed="1"  style="width: 500px; height: 500px; margin-left: 8.5em"  loop  autoplay></lottie-player>
@@ -802,11 +824,11 @@
         </section>
     </main>
     <!-- End Main -->
-    <!-- Footer -->
-        <?php
-        include "footer.php";
-        ?>
-    <!-- End Footer -->
+      <!-- Footer -->
+      <?php
+      include "footer.php";
+      ?>
+      <!-- End Footer -->
     <!-- jquery -->
     <script src="static/js/jquery-3.5.1.min.js"></script>
     <!-- appear -->

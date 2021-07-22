@@ -37,10 +37,10 @@
     <!-- Main -->
     <main>
         <!-- section -->
-        <section class="section bg-gray-200">
+        <section class="section" style="background:#0D4963">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-lg-6 text-center">
+                    <div class="col-lg-6 text-center text-white">
                         <h1>Imprint</h1>
                         <div class="lead">Angaben gemäß § 5 TMG <br> (This is only necessary in German. It shows our address, refers to our data protection and where our non-profit is registered etc. At the bottom we continue in English thanking the designers of the icons and animations.)</div>
                     </div>

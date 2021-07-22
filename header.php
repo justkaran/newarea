@@ -18,14 +18,14 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav m-auto">
                         <li class="nav-item">
-                            <a href="index.html#organisations" class="nav-link">For Organisations</a>
+                            <a href="index.php#organisations" class="nav-link">For Organisations</a>
                             <label class="px-dropdown-toggle mob-menu"></label>
                         </li>
                         <li class="nav-item">
-                            <a href="about.html" class="nav-link">About us</a>
+                            <a href="about.php" class="nav-link">About us</a>
                         </li>
                         <li class="nav-item">
-                            <a href="index.html#contact" class="nav-link">
+                            <a href="index.php#contact" class="nav-link">
                                 Contact
                             </a>
                         </li>

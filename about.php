@@ -37,10 +37,10 @@
     <!-- Main -->
     <main>
         <!-- section -->
-        <section class="section bg-gray-200">
+        <section class="section" style="background:#0D4963">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-lg-6 text-center">
+                    <div class="col-lg-6 text-center text-white">
                         <h1>We are about empowerment</h1>
                         <div class="lead">CodeDoor is a non-profit organization. We provide an easy to use AI supported web application that empowers other organisations to teach their learners how to acquire useful skills. The focus is targeted at project based learning and individual tutoring. Through our partners individual tutoring is possible via general artificial intelligence. The new skills prepare the learners for a career in a technical world.</div>
                     </div>
@@ -53,7 +53,7 @@
             <div class="container">
                 <div class="row align-items-center justify-content-center">
                     <div class="col-lg-6 my-3">
-                        <img src="static/img/1000x1000.jpg" title="" alt="">
+                        <img src="static/img/helloworld.png" title="" alt="hello world code" style="border-radius: 10px;">
                     </div>
                     <div class="col-lg-6 my-3 ps-lg-8">
                         <h6 class="pb-2 text-primary">Our origins</h6>
@@ -93,79 +93,36 @@
             </div>
         </section>
         <!-- End section -->
-        <!-- section -->
-        <section class="section" id="contact">
-            <div class="container">
-                <div class="row section-heading justify-content-center">
-                    <div class="col-lg-7 col-xl-6 text-center">
-                        <h6 class="pb-3 text-primary">Many people form CodeDoor. Some are permanent employees, others work with us on a freelance basis. And a multitude of smart and generous people donate their time and knowledge to your learners by supporting them as tutors!</h6>
-                        <h3 class="h1 mb-3">Contact us!</h3>
-                        <div class="lead">We are happy to hear from you. Meet some of our team members and find out, who to best contact:</div>
+<!-- Section -->
+        <section class="section bg-gray-100">
+            <div class="container" id="contact">
+                <div class="row g-3 align-items-center flex-row-reverse">
+                    <div class="col-lg-6 ps-xxl-12">
+                        <h5 class="display-6 mb-3">Contact us</h5>
+                        <p class="lead">Our Senior Account Manager Anna Helfrich is happy to help.</p>
+
                     </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="hover-scale">
-                            <div class="hover-scale-in rounded position-relative hover-opacity-1">
-                                <img src="static/img/1000x1000.jpg" title="" alt="">
-                                <div class="nav position-absolute bottom-0 start-0 end-0 mx-5 justify-content-center m-3 bg-white py-2 rounded-pill px-1 hover-opacity-in">
-                                        <a class="icon icon-primary mx-1 icon-sm rounded-circle" href="#">
-                                        <i class="fab fa-linkedin-in"></i>
-                                    </a>
+                    <div class="col-lg-6">
+                        <div class="effect-section">
+                            <div class="svg-effect-3">
+                                <img class="svg_img text-primary" src="static/img/effect/effect-style-1.svg" title="" alt="">
+                            </div>
+                            <div class="svg-effect-4">
+                                <img class="svg_img text-success" src="static/img/effect/effect-style-1.svg" title="" alt="">
+                            </div>
+                            <div class="position-relative px-8">
+                                <img src="static/img/anna.jpg" title="" alt="">
+                            </div>
+                            <div class="card position-absolute bottom-0 end-0 col-8 col-sm-8 mb-4">
+                                <div class="card-body d-flex p-3">
+                                    <div class="icon icon-primary-light rounded-circle mb-4">
+                                        <a href="mailto:getstarted@codedoor.org?subject=Get Started CodeDoor&body=Hi Anna, I would like to learn more about CodeDoor and how to get started. Kind Regards"> <i class="bi bi-mailbox"></i></a>
+                                    </div>
+                                    <div class="col ps-3">
+                                        <h6>Anna Helfrich</h6>
+                                        <p class="m-0">Senior Account Manager</p>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="pt-3 text-center">
-                                <h6 class="mb-2 h5">Nora Schimang, CEO</h6>
-                                <span>Contact me, if you and your organisation want to know more about CodeDoor and how we can support you. I am looking foward to hearing from you.</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="hover-scale">
-                            <div class="hover-scale-in rounded position-relative hover-opacity-1">
-                                <img src="static/img/1000x1000.jpg" title="" alt="">
-                                <div class="nav position-absolute bottom-0 start-0 end-0 mx-5 justify-content-center m-3 bg-white py-2 rounded-pill px-1 hover-opacity-in">
-                                <a class="icon icon-primary mx-1 icon-sm rounded-circle" href="#">
-                                        <i class="fab fa-linkedin-in"></i>
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="pt-3 text-center">
-                                <h6 class="mb-2 h5">Farid Bidardel, Co-Founder</h6>
-                                <span>I love working with our wonderful funding partners. If you are interested in supporting our work as well, please get in touch!</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="hover-scale">
-                            <div class="hover-scale-in rounded position-relative hover-opacity-1">
-                                <img src="static/img/1000x1000.jpg" title="" alt="">
-                                <div class="nav position-absolute bottom-0 start-0 end-0 mx-5 justify-content-center m-3 bg-white py-2 rounded-pill px-1 hover-opacity-in">
-                                        <a class="icon icon-primary mx-1 icon-sm rounded-circle" href="#">
-                                        <i class="fab fa-linkedin-in"></i>
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="pt-3 text-center">
-                                <h6 class="mb-2 h5">Anna Helfrich, Senior Account Manager</h6>
-                                <span>Ask me anything about CodeDoor! If you have questions regarding our work and don´t know whom to ask - I am happy to answer them.</span>
-                            </div>
-                            
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="hover-scale">
-                            <div class="hover-scale-in rounded position-relative hover-opacity-1">
-                                <img src="static/img/1000x1000.jpg" title="" alt="">
-                                <div class="nav position-absolute bottom-0 start-0 end-0 mx-5 justify-content-center m-3 bg-white py-2 rounded-pill px-1 hover-opacity-in">
-                                        <a class="icon icon-primary mx-1 icon-sm rounded-circle" href="#">
-                                        <i class="fab fa-linkedin-in"></i>
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="pt-3 text-center">
-                                <h6 class="mb-2 h5">Codolino, AI</h6>
-                                <span>I support your learners! In all modesty, I can say that I am probably the smartest (some say also the cutest) AI on the planet. </span>
                             </div>
                         </div>
                     </div>
