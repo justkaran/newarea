@@ -37,10 +37,10 @@
     <!-- Main -->
     <main>
         <!-- section -->
-        <section class="section" style="background:#0D4963">
+        <section class="section bg-gray-200">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-lg-6 text-center text-white">
+                    <div class="col-lg-6 text-center">
                         <h1>Our Privacy Policy</h1>
                         <div class="lead">We don't own your data. We protect your data as good as we can. We tell you what data we have of you if you ask. We are not liable for data loss. We will delete your data if you want, all of it, anytime.</div>
                     </div>
