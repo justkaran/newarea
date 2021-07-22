@@ -4,7 +4,7 @@
         <nav class="navbar navbar-expand-lg navbar-dark">
             <div class="container">
                 <!-- Logo -->
-                <a class="navbar-brand" href="index.html">
+                <a class="navbar-brand" href="index.php">
                     <img class="logo-dark" src="static/img/cddr-logo.png"  title="" alt="Logo">
                     <img class="logo-light" src="static/img/cddr-logo.png" title="" alt="Logo">
                 </a>
