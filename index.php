@@ -829,6 +829,8 @@
       include "footer.php";
       ?>
       <!-- End Footer -->
+
+    <script id="usercentrics-cmp" src="https://app.usercentrics.eu/browser-ui/latest/loader.js" data-settings-id="tmdxFT6cJ" async></script>
     <!-- jquery -->
     <script src="static/js/jquery-3.5.1.min.js"></script>
     <!-- appear -->
