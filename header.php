@@ -29,6 +29,11 @@
                                 Contact
                             </a>
                         </li>
+                        <li class="nav-item">
+                            <a href="blog.php" class="nav-link">
+                                Blog
+                            </a>
+                        </li>
                     </ul>
                 </div>
                 <!-- End Menu -->
