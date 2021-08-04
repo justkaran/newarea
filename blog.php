@@ -42,10 +42,10 @@
             <div class="container position-relative">
                 <div class="row min-vh-50 align-items-center justify-content-center pt-8 pb-12">
                     <div class="col-lg-8">
-                        <h1 class="display-5 text-white m-0 text-center">Hello World, Welcome to our Blog!</h1>
+                        <h1 class="display-5 text-white m-0 text-center">We have a new project that teaches you to work with oceanic data!</h1>
                         <ul class="nav mt-4 justify-content-center">
-                            <li class="h6 mx-2 text-white font-weight-normal"><i class="fas fa-user me-2"></i>Latest Entry by: Karan</li>
-                            <li class="h6 mx-2 text-white font-weight-normal"><i class="far fa-clock me-2"></i> Latest Entry: July 30, 2021</li>
+                            <li class="h6 mx-2 text-white font-weight-normal"><i class="fas fa-user me-2"></i>Latest Entry by: CodeDoor Team</li>
+                            <li class="h6 mx-2 text-white font-weight-normal"><i class="far fa-clock me-2"></i> Latest Entry: August 4, 2021</li>
                         </ul>
                     </div>
                 </div>
@@ -53,6 +53,44 @@
         </section>
         <!-- End section -->
         <!-- section -->
+        <div class="container position-relative bg-white mt-4 mb-12">
+            <div class="row justify-content-center">
+                <div class="col-lg-9">
+                    <article class="card card-body">
+                        <h5>Save the Oceans!</h5>
+                        <p>With a little bit of code you can do a lot to help to save the oceans. Let's say you want to analyze the environment of animals in the ocean. One way it to analyze the temperature and saltiness of certain parts of the oceans. One way is to work with oceanic data. In a new project we added, you will learn how to access oceanic data and how to visualize it. This can help scientists to discover important data points that can help them to find ways to protect the oceans. </p>
+                        <img src="https://cdn.pixabay.com/photo/2015/07/27/19/47/turtle-863336_1280.jpg">
+                        <div class="border-top pt-4 mt-3">
+                            <div class="row align-items-center">
+                                <div class="col-md-6">
+                                    <div class="media align-items-center">
+                                        <img class="avatar rounded-circle" src="static/img/cddr-logo.png" title="" alt="">
+                                        <div class="media-body ps-3">
+                                            <h6 class="mb-1">August 4th 2021, Your CodeDoor Team</h6>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="nav justify-content-end">
+                                        <a class="icon icon-sm rounded-circle icon-primary ms-2" href="https://www.facebook.com/sharer/sharer.php?u=https://codedoor.com" target="_blank">
+                                            <i class="fab fa-facebook-f"></i>
+                                        </a>
+                                        <a class="icon icon-sm rounded-circle icon-primary ms-2" href="https://twitter.com/intent/tweet" target="_blank" >
+                                            <i class="fab fa-twitter"></i>
+                                        </a>
+                                        <a class="icon icon-sm rounded-circle icon-primary ms-2" href="https://www.linkedin.com/sharing/share-offsite/?url={https://codedoor.com}" target="_blank">
+                                            <i class="fab fa-linkedin-in"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="container position-relative bg-white z-index-1">
             <div class="row justify-content-center">
                 <div class="col-lg-9">
@@ -137,7 +175,7 @@
                                     <div class="media align-items-center">
                                         <img class="avatar rounded-circle" src="static/img/cddr-logo.png" title="" alt="">
                                         <div class="media-body ps-3">
-                                            <h6 class="mb-1">Karan from the CodeDoor Team</h6>
+                                            <h6 class="mb-1">July 30th 2021, Karan from the CodeDoor Team</h6>
                                         </div>
                                     </div>
                                 </div>
