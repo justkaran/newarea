@@ -34,6 +34,11 @@
                                 Blog
                             </a>
                         </li>
+                        <li class="nav-item">
+                            <a href="https://next.codedoor.com/" class="nav-link">
+                                Login
+                            </a>
+                        </li>
                     </ul>
                 </div>
                 <!-- End Menu -->
