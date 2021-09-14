@@ -502,6 +502,11 @@
                     <img src="https://i.imgur.com/M8Jotuc.png" title="" alt="">
                 </div>
             </div>
+            <div class="card mx-1">
+                <div class="card-body text-center">
+                    <img src="/img/cogniziant.png" title="" alt="">
+                </div>
+            </div>
         </div>
     </div>
 </section>
