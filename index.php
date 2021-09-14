@@ -504,7 +504,7 @@
             </div>
             <div class="card mx-1">
                 <div class="card-body text-center">
-                    <img src="/img/cogniziant.png" title="" alt="">
+                    <img src="https://i.imgur.com/MHmoh8n.png" title="" alt="">
                 </div>
             </div>
         </div>
