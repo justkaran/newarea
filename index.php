@@ -446,7 +446,7 @@
                 <div class="lead">We could not do it without the great support of our partners.</div>
             </div>
         </div>
-        <div class="owl-carousel" data-items="5" data-nav-dots="false" data-lg-items="5" data-md-items="3" data-sm-items="3" data-xs-items="2" data-space="10" data-autoplay="true">
+        <div class="owl-carousel" data-items="7" data-nav-dots="false" data-lg-items="7" data-md-items="3" data-sm-items="3" data-xs-items="2" data-space="10" data-autoplay="500">
             <div class="card mx-1">
                 <div class="card-body text-center">
                     <img src="https://i.imgur.com/r4MOfxO.png" title="" alt="">
