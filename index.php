@@ -47,7 +47,7 @@
                     <div class="col-lg-6 text-white">
                         <h6 class="h5">The CodeDoor Way.</h6>
                         <h1 class="display-4 mb-3">Project based education made easy.</h1>
-                        <div class="fs-5">Be empowered to deliver tailored digital learning content. Manage and administer your learners. Set free resources by using our supportive AI.</div>
+                        <div class="fs-5">Be empowered to deliver tailored digital learning content. Seamlessly manage and administer your learners. Free-up resources with the support of our AI. </div>
                         <div class="pt-5">
                             <a class="btn btn-light me-3 mb-2" href="#builtforyou">
                                 Why CodeDoor is the right choice
@@ -68,7 +68,7 @@
                 <div class="row g-3">
                     <div class="col-sm-6 col-lg-3 pe-xl-5">
                         <h6 class="text-primary mb-3">The CodeDoor way supports your organisation:</h6>
-                        <h3 class="mb-3">CodeDoor empowers you to enable others.</h3>
+                        <h3 class="mb-3">Be empowered to enable others.</h3>
                         <p class="m-0">Start now to deliver digital content autonomously, independently and tailored to your learners needs - from simple text based tasks to coding challenges!</p><p>Try it out - without commitment and free of charge!</p>                    </div>
                     <div class="col-sm-6 col-lg-3">
                         <div class="card shadow-hover">
@@ -99,7 +99,7 @@
                                     <i class="bi bi-people"></i>
                                 </div>
                                 <h5>Decide on the content yourself</h5>
-                                <p class="m-0"><p>CodeDoor supports you in planning, organising and digitally implementing knowledge transfer.</p><p>You decide on the WHAT - we take care of the HOW. Start now!</p>
+                                <p class="m-0"><p>CodeDoor supports you in planning, organising and digitally implementing knowledge transfer.</p><p>You decide on the WHAT - we take care of the HOW.</p>
                             </div>
                         </div>
                     </div>
@@ -113,7 +113,7 @@
                 <div class="row section-heading justify-content-center">
                     <div class="col-lg-7 col-xl-6 text-center">
                         <h3 class="h1 mb-3">All Humans First</h3>
-                        <p class="m-0">We are the perfect choice for your educational needs. What´s your digital content? CodeDoor supports you transporting it to your learners. </p>
+                        <p class="m-0">We are the choice for your educational needs. What´s your digital content? CodeDoor supports you transporting it to your learners. </p>
                     </div>
                 </div>
                 <div class="row g-3">
@@ -146,7 +146,7 @@
                                     <i class="bi bi-people"></i>
                                 </div>
                                 <h5>Build smart teams</h5>
-                                <p class="m-0">You choose whether your learners work alone or in a team. Who is in the team is up to you or the learners - whatever suits you better.</p>
+                                <p class="m-0">Choose whether your learners work alone or in a team. Who is in the team is up to you or the learners - whatever suits you better.</p>
                             </div>
                         </div>
                     </div>
@@ -375,7 +375,7 @@
                             <div class="icon icon-lg icon-primary-light rounded-circle mb-4">
                                 <i class="bi bi-emoji-smile"></i>
                              </div>
-                            <h5>Swarm intelligence</h5>
+                            <h5>Network effect</h5>
                             <p>Take advantage of the knowledge of other organisations from around the world that work with similar target groups. They have tried and tested projects made available to you.</p>
                         </div>
                         <div class="py-3 text-lg-end">
