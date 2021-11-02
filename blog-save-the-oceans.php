@@ -38,7 +38,6 @@ include "header.php";
 <main>
     <!-- section -->
     <section class="parallax effect-section" style="background-color:#0D4963">
-        <div class="mask bg-black opacity-7"></div>
         <div class="container position-relative">
             <div class="row min-vh-50 align-items-center justify-content-center pt-8 pb-12">
                 <div class="col-lg-8">
