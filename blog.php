@@ -54,6 +54,16 @@
                 <div class="row g-3 g-lg-4">
                     <div class="col-lg-4">
                         <div class="card shadow-sm-hover">
+                            <a href="blog-interviews.php"><img class="card-img-top" src="static/img/blog/CodeDoor_StudentInnen.jpg" title="" alt="">
+                                <div class="card-body pt-0">
+                                    <div class="text-muted mb-4 mt-n3"><span class="bg-primary text-white py-1 px-3 d-inline-block rounded-pill small"><i class="far fa-clock me-2"></i>November 8th 2021</span></div>
+                                    <h5>Meet our awesome alumni</h5>
+                                    <p class="pt-3 m-0">We asked CodeDoor alumni to share their experiences and give tips to current learners...</p>
+                                </div></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="card shadow-sm-hover">
                             <a href="blog-espinho.php"><img class="card-img-top" src="static/img/blog/code4sp_Espinho.jpg" title="" alt="">
                             <div class="card-body pt-0">
                                 <div class="text-muted mb-4 mt-n3"><span class="bg-primary text-white py-1 px-3 d-inline-block rounded-pill small"><i class="far fa-clock me-2"></i>November 2th 2021</span></div>
