@@ -70,11 +70,11 @@ include "header.php";
                     </p>
                     <h6>What did you do after you qualified with CodeDoor?
                     </h6>
-                    <p>I was granted two Nano-degrees scholarships, through the weekly team meetings it allowed me to get a broad range of knowledge and also support. Codedoor inspired my Salesforce journey, providing me with the necessary information to enroll in ReDi school.
+                    <p>I was given access to the CodeDoor platform and received support from IT experts. Through this and the weekly team meetings it allowed me to get a broad range of knowledge and also support. CodeDoor inspired my Salesforce journey, providing me with the necessary information to enroll in ReDi school.
                     </p>
                     <h6>How could CodeDoor help you?
                     </h6>
-                    <p>Codedoor provided me with enough open doors to peruse, in order for me to recover my IT knowledge and to be prepared for the German market.
+                    <p>CodeDoor provided me with enough open doors to peruse, in order for me to recover my IT knowledge and to be prepared for the German market.
                     </p>
                     <h6>What do you want to accomplish next?
                     </h6>
