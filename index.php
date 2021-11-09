@@ -286,7 +286,7 @@
                                         <p class="w-lg-90">Your learners can work alone or in teams. The teams are put together by you as the administrator or by the learners themselves.</p>
                                     </div>
                                 </div>
-                            </div> 
+                            </div>
                             <div class="col-sm-6 my-3">
                                 <div class="card hover-top">
                                     <div class="card-body">
@@ -437,6 +437,47 @@
                 </div>
             </section>
             <!-- End Section -->
+
+        <!-- section -->
+        <section class="section effect-section bg-dark" id="cases">
+            <div class="svg-effect-2 opacity-1">
+                <img class="svg_img text-white" src="static/img/effect/dot-effect-1.svg" title="" alt="">
+            </div>
+            <div class="container position-relative">
+                <div class="row section-heading justify-content-center">
+                    <div class="col-lg-7 col-xl-6 text-center text-white">
+                        <h3 class="h1 mb-3">Testimonials</h3>
+                        <div class="lead">You have to have tried it yourself to imagine the easy and fast progress of CodeDoor learners. That's why we asked some peers to tell us about their experiences.</div>
+                    </div>
+                </div>
+                <div class="owl-carousel" data-items="2" data-nav-arrow="false" data-nav-dots="true" data-lg-items="2" data-md-items="2" data-sm-items="2" data-xs-items="1" data-space="30" data-autoplay="true">
+                    <div class="card mb-4">
+                        <div class="card-body">
+                            <div class="d-flex mb-4">
+                                <div class="col ps-3">
+                                    <h6 class="m-0">Julian</h6>
+                                    <small>administrator from "ReDi School"</small>
+                                </div>
+                            </div>
+                            <p class="lead">Projects are at the heart of our courses. With CodeDoor we are able to facilitate and scale our project-based learning. The platform enables us to give more people access to learning digital skills. We can invite an unlimited number of users and let them work on the content we provide. The flexibility helps us to follow our path and at the same time to give the learners the individual support they need."</p>
+                            <img src="static/img/julian.png" style="width: 30%; float: right;">
+                        </div>
+                    </div>
+                    <div class="card mb-4">
+                        <div class="card-body">
+                            <div class="d-flex mb-4">
+                                <div class="col ps-3">
+                                    <h6 class="m-0">Gülçin</h6>
+                                    <small>learner from "Newbie Coders"</small>
+                                </div>
+                            </div>
+                            <p class="lead">The CodeDoor tool helps me to structure my learning. I am working through project after project and building up my portfolio. It is fascinating how easy learning can be when you have the right environment!</p>
+                            <img src="static/img/guelcin.png" style="width: 30%; float: left;"></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
   <!-- Section -->
   <section class="section">
     <div class="container position-relative">
@@ -512,168 +553,7 @@
 </section>
 <!-- End Section -->
         <!-- section -->
-      <!--  <section class="section effect-section bg-dark" id="cases">
-            <div class="svg-effect-2 opacity-1">
-                <img class="svg_img text-white" src="static/img/effect/dot-effect-1.svg" title="" alt="">
-            </div>
-            <div class="container position-relative">
-                <div class="row section-heading justify-content-center">
-                    <div class="col-lg-7 col-xl-6 text-center text-white">
-                        <h3 class="h1 mb-3">Organisations & Learners Stories</h3>
-                        <div class="lead">You have to have tried it yourself to imagine the easy and fast progress of CodeDoor learners. That's why we asked some alumni and tutors to tell us about their experiences.</div>
-                    </div>
-                </div>
-                <div class="owl-carousel" data-items="3" data-nav-arrow="false" data-nav-dots="true" data-lg-items="2" data-md-items="2" data-sm-items="2" data-xs-items="1" data-space="30" data-autoplay="true">
-                    <div class="card mb-4">
-                        <div class="card-body">
-                            <div class="d-flex mb-4">
-                                <div class="avatar avatar-sm rounded-circle">
-                                    <img src="static/img/1000x1000.jpg" title="" alt="">
-                                </div>
-                                <div class="col ps-3">
-                                    <h6 class="m-0">Manal</h6>
-                                    <small>Salesforce-Administrator</small>
-                                </div>
-                            </div>
-                            <p class="lead">Manal and her family fled Syria. As a CodeDoor learner, she stood out for her particular diligence. After an intensive training phase, Manal landed a job as an IT administrator. While working, she qualified further and is now successfully working as a Salesforce administrator!</p>
-                            <div class="d-flex text-warning">
-                                <i class="bi bi-star-fill me-2"></i>
-                                <i class="bi bi-star-fill me-2"></i>
-                                <i class="bi bi-star-fill me-2"></i>
-                                <i class="bi bi-star-fill me-2"></i>
-                                <i class="bi bi-star-fill me-2"></i>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card mb-4">
-                        <div class="card-body">
-                            <div class="d-flex mb-4">
-                                <div class="avatar avatar-sm rounded-circle">
-                                    <img src="static/img/1000x1000.jpg" title="" alt="">
-                                </div>
-                                <div class="col ps-3">
-                                    <h6 class="m-0">Zarah</h6>
-                                    <small>Coder to be</small>
-                                </div>
-                            </div>
-                            <p class="lead">Due to her unconventional CV, Zarah couldn't find an apprenticeship. She came to CodeDoor and was thrilled: "I  had never heard of programming languages before." Zarah built project after project until she was able to land an apprenticeship as an application developer.</p>
-                            <div class="d-flex text-warning">
-                                <i class="bi bi-star-fill me-2"></i>
-                                <i class="bi bi-star-fill me-2"></i>
-                                <i class="bi bi-star-fill me-2"></i>
-                                <i class="bi bi-star-fill me-2"></i>
-                                <i class="bi bi-star-fill me-2"></i>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card mb-4">
-                        <div class="card-body">
-                            <div class="d-flex mb-4">
-                                <div class="avatar avatar-sm rounded-circle">
-                                    <img src="static/img/1000x1000.jpg" title="" alt="">
-                                </div>
-                                <div class="col ps-3">
-                                    <h6 class="m-0">Julia</h6>
-                                    <small>Alumna and Tutor</small>
-                                </div>
-                            </div>
-                            <p class="lead">Julia started coding on CodeDoor without any prior experience. Only six months after Julia had written her first code, she got a job offer as a junior frontend developer from one of our most established CodeDoor tutors. They are since working together - in the office and as CodeDoor tutors.</p>
-                            <div class="d-flex text-warning">
-                                <i class="bi bi-star-fill me-2"></i>
-                                <i class="bi bi-star-fill me-2"></i>
-                                <i class="bi bi-star-fill me-2"></i>
-                                <i class="bi bi-star-fill me-2"></i>
-                                <i class="bi bi-star-fill me-2"></i>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card mb-4">
-                        <div class="card-body">
-                            <div class="d-flex mb-4">
-                                <div class="avatar avatar-sm rounded-circle">
-                                    <img src="static/img/1000x1000.jpg" title="" alt="">
-                                </div>
-                                <div class="col ps-3">
-                                    <h6 class="m-0">Milad</h6>
-                                    <small>Front-end Developer</small>
-                                </div>
-                            </div>
-                            <p class="lead">Milad always loved sports much more than school. When he couldn't become a professional athlete, there were hardly options for him. At CodeDoor, his training experience benefited him: he learned consistently, quickly developed new skills and started his own business.</p>
-                            <div class="d-flex text-warning">
-                                <i class="bi bi-star-fill me-2"></i>
-                                <i class="bi bi-star-fill me-2"></i>
-                                <i class="bi bi-star-fill me-2"></i>
-                                <i class="bi bi-star-fill me-2"></i>
-                                <i class="bi bi-star-fill me-2"></i>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card mb-4">
-                        <div class="card-body">
-                            <div class="d-flex mb-4">
-                                <div class="avatar avatar-sm rounded-circle">
-                                    <img src="static/img/1000x1000.jpg" title="" alt="">
-                                </div>
-                                <div class="col ps-3">
-                                    <h6 class="m-0">Ringaile</h6>
-                                    <small>Blockchain Expert and Tutor</small>
-                                </div>
-                            </div>
-                            <p class="lead">Ringaile is an IT all-rounder who absorbs new knowledge. Always friendly and well-balanced, she is a very popular tutor. And while Ringaile combined a full-time job as a fullstack developer with her impressive sports program, she gained a qualification as blockchain expert!</p>
-                            <div class="d-flex text-warning">
-                                <i class="bi bi-star-fill me-2"></i>
-                                <i class="bi bi-star-fill me-2"></i>
-                                <i class="bi bi-star-fill me-2"></i>
-                                <i class="bi bi-star-fill me-2"></i>
-                                <i class="bi bi-star-fill me-2"></i>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="pt-10">
-                    <div class="row justify-content-center">
-                        <div class="col-lg-5 text-center">
-                            <h3 class="h1 text-white">A strong network of partners</h3>
-                            <p class="text-white-50">Without our partners we would not be here. We are always very happy about the exchange with you and especially about your support and appreciation of our work. Many thanks to the best partners in the world!</p>
-                        </div>
-                        <div class="col-lg-10">
-                            <div class="owl-carousel" data-items="5" data-nav-dots="false" data-lg-items="5" data-md-items="3" data-sm-items="3" data-xs-items="2" data-space="30" data-autoplay="true">
-                                <div class="p-3 hover-opacity">
-                                    <div class="hover-opacity-in">
-                                        <img src="static/img/github-white.svg" title="" alt="">
-                                    </div>
-                                </div>
-                                <div class="p-3 hover-opacity">
-                                    <div class="hover-opacity-in">
-                                        <img src="static/img/slack-white.svg" title="" alt="">
-                                    </div>
-                                </div>
-                                <div class="p-3 hover-opacity">
-                                    <div class="hover-opacity-in">
-                                        <img src="static/img/paypal-white.svg" title="" alt="">
-                                    </div>
-                                </div>
-                                <div class="p-3 hover-opacity">
-                                    <div class="hover-opacity-in">
-                                        <img src="static/img/logo-light.svg" title="" alt="">
-                                    </div>
-                                </div>
-                                <div class="p-3 hover-opacity">
-                                    <div class="hover-opacity-in">
-                                        <img src="static/img/airbnb-white.svg" title="" alt="">
-                                    </div>
-                                </div>
-                                <div class="p-3 hover-opacity">
-                                    <div class="hover-opacity-in">
-                                        <img src="static/img/spotify-white.svg" title="" alt="">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+
         <!-- Section -->
         <section class="section bg-gray-100">
             <div class="container" id="contact">
@@ -685,7 +565,7 @@
                             <a href="mailto:getstarted@codedoor.org?subject=Get Started CodeDoor&body=Hi Anna, I would like to learn more about CodeDoor and how to get started. Kind Regards" class="btn btn-primary"> Contact Anna</a>
                         </div>
                     </div>
-                    
+
                     <div class="col-lg-6">
                         <div class="effect-section">
                             <div class="svg-effect-3">
