@@ -66,7 +66,7 @@ include "header.php";
                     </p>
                     <h5>Manal</h5>
                     <h6>What did you do before you qualified with CodeDoor?</h6>
-                    <p>I was a system analyst in IMMPOWER maintenance management system (ERP System) at Shell Syria, then as a claim assistant in an insurance company in Qatar, and finally as a senior personal assistant to Chief Executive Officer at an insurance company in Qatar.
+                    <p>Before I had to flee Syria because of the war, I was a system analyst, then a claim assistant in an insurance company and finally a senior personal assistant to the Chief Executive Officer at an insurance company. But when I arrived in Germany with my husband and three children, I had to start all over.
                     </p>
                     <h6>What did you do after you qualified with CodeDoor?
                     </h6>
@@ -84,23 +84,21 @@ include "header.php";
                     </h6>
                     <p>Persistence and consistency is key. The hard work will be rewarded nicely. Never lose motivation. Never close a door.
                     </p>
-                    <h5>Sara</h5>
+                    <h5>Hector</h5>
                     <h6>How did you get together as a team?</h6>
-                    <p>We didn't decide the group, it was suggested to us.
-
-                    <h6>Why did your teamwork went well?</h6>
-                    <p>That teamwork went ok, within the limitations of only being able to meet online due to the pandemic. I think we all were really motivated and eager to learn and to do it right.
+                    <p>I looked for an interesting project to develop, and other people thought the same way. So a common interest joined us: the love to learn.
+                    </p>
+                    <h6>Why is your teamwork going well?</h6>
+                    <p>Our teamwork is going well because we collaborate with each other to solve problems and accomplish our objectives. Each team member contributes his or her  knowledge and in the end we exceed our expectations!
                     </p>
                     <h6>How could CodeDoor help you so far?</h6>
-                    <p>CodeDoor platform is really interesting and helpful to understand and follow a path guide. And our tutor was really helpful.
-                    </p>
-                    <p>When you are so new in this learning process/ system, it takes a while to find the right way to make a better use of the resources offered (but that is also part of the learning process).
+                    <p>CodeDoor has been our cornerstone in the development of our knowledge and soft skills. We have always had the help of very good mentors who have guided us in a timely and effective manner throughout the process. The staff of the organization has always been interested in our welfare and it shows that they do it with heart.
                     </p>
                     <h6>What do you want to accomplish next? Do you all have the same goals?</h6>
-                    <p>My teammate and I decided to keep learning software engineering, so CodeDoor was a really good starting point to begin this new career. I really appreciate the opportunity to have access to the CodeDoor platform and community!
+                    <p>I think all of us want to have a job related with software development and that is why we work hard in our projects.
                     </p>
                     <h6>What would you like to pass on to learners who are currently undergoing training?</h6>
-                    <p>I encourage new learners to ask as many questions as they have and don't hurry up, just enjoy each moment and make sure you understand everything before moving to a new subject.
+                    <p>I would like them to know that every effort is really worth it, it is an industry with many opportunities. This training process will have a positive influence on their personal and professional lives.
                     </p>
 
                     <br/>
