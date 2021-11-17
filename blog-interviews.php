@@ -62,7 +62,23 @@ include "header.php";
                         <source src="static/video/casneil.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
-                    <p>&nbsp;
+                    <br/>
+                    <p>Hallo there! My name is Casneil Simpson, nice to meet you.
+                    </p>
+                    <h6>What did you do before you qualified with CodeDoor?</h6>
+                    <p>Before I qualified for CodeDoor, I was appointed from a non-profit-organisation where they teach people who are interested in learning coding.
+                    </p>
+                    <h6>What did you do after you qualified with CodeDoor?</h6>
+                    <p>After I qualified for CodeDoor, I took on a few projects (nanodegree-programms), which were offered at CodeDoor, successfully completed them, started looking for jobs and I was fortunate enough to actually get a job and since then I have been working as a developer.
+                    </p>
+                    <h6>How could CodeDoor help you?</h6>
+                    <p>CodeDoor provided me with all the tools that I needed to successfully get into the field of development, which are technical skills and also soft skills like communication skills.
+                    </p>
+                    <h6>What do you want to accomplish next?</h6>
+                    <p>My next major goal is to become a better software developer and also to give back to the community and help people who are interested or share the same interests.
+                    </p>
+                    <h6>What would you like to pass on to learners who are currently undergoing training?</h6>
+                    <p>My biggest advice to current learners is to always stick through it and always remember that all work pays off even though it seems rough at times.
                     </p>
                     <h5>Manal</h5>
                     <h6>What did you do before you qualified with CodeDoor?</h6>
