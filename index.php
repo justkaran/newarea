@@ -124,7 +124,7 @@
                                     <i class="bi bi-person"></i>
                                 </div>
                                 <h5>Manage your learners</h5>
-                                <p class="m-0">Simply invite your learners, follow their progress and enjoy their successes! You only need basic IT skills yourself.</p>
+                                <p class="m-0">Simply invite your learners, follow their progress and enjoy their success! You only need basic IT skills yourself.</p>
                             </div>
                         </div>
                     </div>
@@ -162,7 +162,7 @@
                         <div class="row section-heading">
                             <div class="col-lg-7 col-xl-9 mb-2 mb-lg-0">
                                 <h6 class="pb-3 text-primary">Built for you</h6>
-                                <h1 class="h1 mb-3">We have a solution for <br>
+                                <h1 class="h1 mb-3">We have created a solution for <br>
                                 <span class="text-primary" style="color:#e01fe7 !important;"><span class="typed" data-elements="learners., tutors., organisations."></span></h1>
                             </div>
                         </div>
