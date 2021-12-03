@@ -301,6 +301,102 @@
                        </section>
         <!-- End Section -->
 
+   <!-- section -->
+   <section class="section bg-gray-100">
+            <div class="container">
+                <div class="row flex-row-reverse align-items-center g-4">
+                    <div class="col-lg-6">
+                    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+                            <lottie-player src="https://assets4.lottiefiles.com/packages/lf20_7zf0yQ.json"  background="transparent"  speed="1"  style="width: 500px; height: 500px; padding-left: 100px"  loop  autoplay></lottie-player>
+                    </div>
+                    <div class="col-lg-6 pe-xl-7">
+                        <h3>Your learners will build<br /> real life projects</h3>
+                        <p class="lead pb-3">Learners will onboard, meet team members, work together and deliver</p>
+                        <div class="row g-3">
+                            <div class="col-sm-6 d-flex flex-row">
+                                <div class="card position-relative shadow-hover w-100">
+                                    <div class="card-body">
+                                        <div class="d-flex">
+                                            <div class="icon icon-primary-light mb-4 rounded-circle">
+                                                <i class="bi bi-star-fill"></i>
+                                            </div>
+                                            <h6 class="m-0 col ps-3"><a class="text-reset stretched-link">Build real things</a></h6>
+                                        </div>
+                                        <div class="skill-lt lg mt-2">
+                                            <div class="skill-bar">
+                                                <div class="skill-bar-in bg-primary" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                                                    <span>100%</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 d-flex flex-row">
+                                <div class="card position-relative shadow-hover w-100">
+                                    <div class="card-body">
+                                        <div class="d-flex">
+                                            <div class="icon icon-success-light mb-4 rounded-circle">
+                                                <i class="bi bi-shield-fill"></i>
+                                            </div>
+                                            <h6 class="m-0 col ps-3"><a class="text-reset stretched-link">Learn how to collaborate</a></h6>
+                                        </div>
+                                        <div class="skill-lt lg mt-2">
+                                            <div class="skill-bar">
+                                                <div class="skill-bar-in bg-primary" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                                                    <span>100%</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 d-flex flex-row">
+                                <div class="card position-relative shadow-hover w-100">
+                                    <div class="card-body">
+                                        <div class="d-flex">
+                                            <div class="icon icon-warning-light mb-4 rounded-circle">
+                                                <i class="bi bi-briefcase-fill"></i>
+                                            </div>
+                                            <h6 class="m-0 col ps-3"><a class="text-reset stretched-link">Build up skills via projects</a></h6>
+                                        </div>
+                                        <div class="skill-lt lg mt-2">
+                                            <div class="skill-bar">
+                                                <div class="skill-bar-in bg-primary" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                                                    <span>100%</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 d-flex flex-row">
+                                <div class="card position-relative shadow-hover w-100">
+                                    <div class="card-body">
+                                        <div class="d-flex">
+                                            <div class="icon icon-info-light rounded-circle mb-4">
+                                                <i class="bi bi-calendar2-date-fill"></i>
+                                            </div>
+                                            <h6 class="m-0 col ps-3"><a class="text-reset stretched-link">Projects are like real job experiences</a></h6>
+                                        </div>
+                                        <div class="skill-lt lg mt-2">
+                                            <div class="skill-bar">
+                                                <div class="skill-bar-in bg-primary" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                                                    <span>100%</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End section -->
+
+
 
         <!-- section -->
         <section class="section">
@@ -309,7 +405,7 @@
                     <div class="col-lg-7 text-center">
                         <h6 class="pb-3 text-primary">Our Features</h6>
                         <h3 class="h1 mb-3">We have what you want</h3>
-                        <div class="lead">A simple way to digitally empower your learners. On any topic that is essential to your organisation.</div>
+                        <div class="lead">A simple way to empower your learners to build real projects. On any topic that is essential to your organisation.</div>
                     </div>
                 </div>
                 <div class="row align-items-center justify-content-around">
