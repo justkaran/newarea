@@ -58,7 +58,7 @@
                     </div>
                     <div class="col-lg-6 my-3 ps-lg-8">
                         <h6 class="pb-2 text-primary">Die Job Placements</h6>
-                        <h3>Du kannst aus drei Kategorien wählen. Für jede Kategorie gibt es Projekte.</h3>
+                        <h3>Du kannst aus zwei Kategorien wählen. Für jede Kategorie gibt es Projekte.</h3>
                         <p class="lead">Die Projekte sind von Milch und Zucker abgesegnet. Wenn Du zeigst, dass Du sie beherrschst, hast Du eine gute Chance auf ein Job Placement.</p>
                             <br>
                             <br>
@@ -69,8 +69,8 @@
                                     <i class="bi bi-check-all fs-5 lh-1"></i>
                                 </div>
                                 <div class="col ps-3">
-                                    <h6 class="mb-1">PHP Projekte</h6>
-                                    <p class="m-0">PHP Projekte machen Dich fit für eine Stelle bei Milch und Zucker.</p>
+                                    <h6 class="mb-1">Back-End Projekte</h6>
+                                    <p class="m-0">PHP lastige Projekte machen Dich fit für eine Stelle bei Milch und Zucker.</p>
                                 </div>
                             </li>
                             <li class="d-flex mb-4">
@@ -78,17 +78,8 @@
                                     <i class="bi bi-check-all fs-5 lh-1"></i>
                                 </div>
                                 <div class="col ps-3">
-                                    <h6 class="mb-1">Communication Manager (Sales, Accounts, Trainer)</h6>
-                                    <p class="m-0">Ob Trainer, Sales oder Accounts Manager. Du kannst aus drei Kategorien wählen. Für jede Kategorie gibt es Projekte.</p>
-                                </div>
-                            </li>
-                            <li class="d-flex mb-4">
-                                <div class="icon icon-sm icon-danger-light rounded-circle">
-                                    <i class="bi bi-check-all fs-5 lh-1"></i>
-                                </div>
-                                <div class="col ps-3">
-                                    <h6 class="mb-1">Ausbildung IT-Bereich</h6>
-                                    <p class="m-0">Hier zeigst Du an Projekten, Deine Eigeninitiative, Neugierde und den Willen, zu lernen.</p>
+                                    <h6 class="mb-1">Front-End Projekte</h6>
+                                    <p class="m-0">Front-End Projekte basierend auf Javascript mit einer Prise PHP machen Dich fit für eine Stelle bei Milch und Zucker.</p>
                                 </div>
                             </li>
                         </ul>
