@@ -45,6 +45,9 @@
                 <div class="nav flex-nowrap align-items-center">
                     <!-- Nav Button -->
                     <div class="nav-item d-none d-xl-block">
+                        <a href="de/index.php" class="nav-link">de</a>
+                    </div>
+                    <div class="nav-item d-none d-xl-block">
                     <a href="mailto:getstarted@codedoor.org?subject=Get Started CodeDoor&body=Hi Anna, I would like to learn more about CodeDoor and how to get started. Kind Regards" class="btn btn-sm btn-primary mb-0 mx-2 text-nowrap"> Contact Us!</a>
                     </div>
                 </div>

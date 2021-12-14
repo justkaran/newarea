@@ -54,6 +54,16 @@ include "header.php";
             <div class="row g-3 g-lg-4">
                 <div class="col-lg-4">
                     <div class="card shadow-sm-hover">
+                        <a href="blog-zaug.php"><img class="card-img-top" src="static/img/blog/blog-no-img.jpg" title="" alt="">
+                            <div class="card-body pt-0">
+                                <div class="text-muted mb-4 mt-n3"><span class="bg-primary text-white py-1 px-3 d-inline-block rounded-pill small"><i class="far fa-clock me-2"></i>December 14th 2021</span></div>
+                                <h5>Unser Partner ZAUG im Interview</h5>
+                                <p class="pt-3 m-0">Unser Partner ZAUG im Interview...</p>
+                            </div></a>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="card shadow-sm-hover">
                         <a href="blog-edesign.php"><img class="card-img-top" src="static/img/blog/edesign.jpg" title="" alt="">
                             <div class="card-body pt-0">
                                 <div class="text-muted mb-4 mt-n3"><span class="bg-primary text-white py-1 px-3 d-inline-block rounded-pill small"><i class="far fa-clock me-2"></i>November 8th 2021</span></div>
@@ -84,7 +94,7 @@ include "header.php";
                 </div>
                 <div class="col-lg-4">
                     <div class="card shadow-sm-hover">
-                        <a href="blog-save-the-oceans.php"><img class="card-img-top" src="https://cdn.pixabay.com/photo/2015/07/27/19/47/turtle-863336_1280.jpg" title="" alt="">
+                        <a href="blog-save-the-oceans.php"><img class="card-img-top" src="static/img/blog/blog-no-img.jpg" title="" alt="">
                             <div class="card-body pt-0">
                                 <div class="text-muted mb-4 mt-n3"><span class="bg-primary text-white py-1 px-3 d-inline-block rounded-pill small"><i class="far fa-clock me-2"></i>August 4th 2021</span></div>
                                 <h5>Save the Oceans!</h5>
