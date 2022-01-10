@@ -57,6 +57,7 @@ include "header.php";
             <div class="col-lg-9">
                 <article class="card card-body">
                     <h5>Unser Partner ZAUG im Interview</h5>
+                    <p>Seit mehr als 25 Jahren setzt das Zentrum Arbeit und Umwelt - Gießener gemeinnützige Berufsbildungsgesellschaft mbH (ZAUG gGmbH) auf Ausbildung, Qualifizierung, Beschäftigung für Jugendliche und Erwachsene aus der Stadt und dem Landkreis Gießen.</p>
                     <h6>Wie habt Ihr Eure Programmteilnehmer*innen qualifiziert, bevor Ihr die Zusammenarbeit mit CodeDoor begonnen habt?</h6>
                     <p>Wir sind ein alteingesessener Bildungsträger in Mittelhessen und haben viele bewährte Fortbildungskonzepte. Dafür laden wir normalerweise die Programmteilnehmer*innen zu uns ins Gebäude ein und stellen ihnen Trainer*innen an die Seite, die sie dabei unterstützen, neue Fähigkeiten zu erlernen.
                     </p>

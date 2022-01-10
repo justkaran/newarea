@@ -54,7 +54,7 @@ include "header.php";
             <div class="row g-3 g-lg-4">
                 <div class="col-lg-4">
                     <div class="card shadow-sm-hover">
-                        <a href="blog-zaug.php"><img class="card-img-top" src="static/img/blog/blog-no-img.jpg" title="" alt="">
+                        <a href="blog-zaug.php"><img class="card-img-top" src="static/img/blog/zaug1.jpg" title="" alt="">
                             <div class="card-body pt-0">
                                 <div class="text-muted mb-4 mt-n3"><span class="bg-primary text-white py-1 px-3 d-inline-block rounded-pill small"><i class="far fa-clock me-2"></i>December 14th 2021</span></div>
                                 <h5>Unser Partner ZAUG im Interview</h5>
