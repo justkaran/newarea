@@ -54,6 +54,16 @@ include "header.php";
             <div class="row g-3 g-lg-4">
                 <div class="col-lg-4">
                     <div class="card shadow-sm-hover">
+                        <a href="blog-pm.php"><img class="card-img-top" src="static/img/blog/blog-no-img.jpg" title="" alt="">
+                            <div class="card-body pt-0">
+                                <div class="text-muted mb-4 mt-n3"><span class="bg-primary text-white py-1 px-3 d-inline-block rounded-pill small"><i class="far fa-clock me-2"></i>March 15th 2022</span></div>
+                                <h5>Job description: Project Manager NGO</h5>
+                                <p class="pt-3 m-0">We are hiring...</p>
+                            </div></a>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="card shadow-sm-hover">
                         <a href="blog-zaug.php"><img class="card-img-top" src="static/img/blog/zaug1.jpg" title="" alt="">
                             <div class="card-body pt-0">
                                 <div class="text-muted mb-4 mt-n3"><span class="bg-primary text-white py-1 px-3 d-inline-block rounded-pill small"><i class="far fa-clock me-2"></i>December 14th 2021</span></div>
