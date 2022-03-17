@@ -38,7 +38,7 @@
                 <div class="row">
                     <div class="col-md-6 my-2">
                         <div class="nav justify-content-center justify-content-md-start">
-                                <p class="m-0">© 2021 <a href="" class="text-reset">CodeDoor</a></p>
+                                <p class="m-0">© 2022 <a href="" class="text-reset">CodeDoor</a></p>
                         </div>
                     </div>
                 </div>

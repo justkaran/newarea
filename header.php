@@ -39,6 +39,11 @@
                                 Login
                             </a>
                         </li>
+                        <li class="nav-item">
+                            <a href="jobsforrefugees.php" class="nav-link">
+                           Affected by the war in Ukraine? <img src="static/img/ukraine.png" title="" alt="Ukrainian flag" height="20px" width="auto">
+                            </a>
+                        </li>
                     </ul>
                 </div>
                 <!-- End Menu -->
