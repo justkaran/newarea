@@ -80,6 +80,24 @@ include "header.php";
                     <h6>What would you like to pass on to learners who are currently undergoing training?</h6>
                     <p>My biggest advice to current learners is to always stick through it and always remember that all work pays off even though it seems rough at times.
                     </p>
+                    <h5>Dana</h5>
+                    <h6>What did you do before you qualified with CodeDoor?</h6>
+                    <p>I was unemployed when I started CodeDoor. Since I was always interested in Education and Digitalization and wanted to qualify further.
+                    </p>
+                    <h6>What did you do after you qualified with CodeDoor?
+                    </h6>
+                    <p>I started working as a researcher for educational technologies at a research institute and the Goethe University Frankfurt and have worked there since then.</p>
+                    <h6>How could CodeDoor help you?
+                    </h6>
+                    <p>I found new perspectives of work and research and learned the basics of HTML and then Python programming in CodeDoor classes, which I have elaborated on since then.</p>
+                    <h6>What do you want to accomplish next?
+                    </h6>
+                    <p>I am planning to finish my interdisciplinary Ph.D. in Computer Science and want to focus on the prospects of including AI technologies for better learning at University.
+                    </p>
+                    <h6>What would you like to pass on to learners who are currently undergoing training?
+                    </h6>
+                    <p>Stay curious, network as much as you can, get out of your comfort zone and stay on course. It's worth it! I personally enjoyed meeting so many inspiring women at CodeDoor!
+                    </p>
                     <h5>Manal</h5>
                     <h6>What did you do before you qualified with CodeDoor?</h6>
                     <p>Before I had to flee Syria because of the war, I was a system analyst, then a claim assistant in an insurance company and finally a senior personal assistant to the Chief Executive Officer at an insurance company. But when I arrived in Germany with my husband and three children, I had to start all over.
