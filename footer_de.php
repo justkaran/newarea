@@ -17,16 +17,16 @@
                     <h5 class="mb-3 text-white">Über uns</h5>
                     <ul class="list-unstyled white-link footer-links">
                         <li>
-                            <a href="imprint.php">Impressum</a>
+                            <a href="../imprint.php">Impressum</a>
                         </li>
                         <li>
-                            <a href="policy.php">Datenschutz</a>
+                            <a href="../policy.php">Datenschutz</a>
                         </li>
                         <li>
                             <a href="about.php">Über uns</a>
                         </li>
                         <li>
-                            <a href="blog.php">Blog</a>
+                            <a href="../blog.php">Blog</a>
                         </li>
                     </ul>
                 </div>
