@@ -656,9 +656,9 @@
                 <div class="row g-3 align-items-center flex-row-reverse">
                     <div class="col-lg-6 ps-xxl-12">
                         <h5 class="display-6 mb-3">Contact us</h5>
-                        <p class="lead">Our Senior Account Manager Anna Helfrich is happy to help.</p>
+                        <p class="lead">The CodeDoor team is happy to help.</p>
                         <div>
-                            <a href="mailto:getstarted@codedoor.org?subject=Get Started CodeDoor&body=Hi Anna, I would like to learn more about CodeDoor and how to get started. Kind Regards" class="btn btn-primary"> Contact Anna</a>
+                            <a href="mailto:getstarted@codedoor.org?subject=Get Started CodeDoor&body=Hi CodeDoor team, I would like to learn more about CodeDoor and how to get started. Kind Regards" class="btn btn-primary"> Contact us</a>
                         </div>
                     </div>
 

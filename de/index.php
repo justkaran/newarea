@@ -663,7 +663,7 @@
                         <h5 class="display-6 mb-3">Melde Dich bei uns</h5>
                         <p class="lead">Das CodeDoor Team freut sich darauf, von Dir zu hören!</p>
                         <div>
-                            <a href="mailto:getstarted@codedoor.org?subject=Get Started CodeDoor&body=Hi Anna, I would like to learn more about CodeDoor and how to get started. Kind Regards" class="btn btn-primary"> Schreibe uns</a>
+                            <a href="mailto:getstarted@codedoor.org?subject=Get Started CodeDoor&body=Hi CodeDoor team, I would like to learn more about CodeDoor and how to get started. Kind Regards" class="btn btn-primary"> Schreibe uns</a>
                         </div>
                     </div>
 
