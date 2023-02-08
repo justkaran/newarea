@@ -676,11 +676,11 @@
                             <div class="card position-absolute bottom-0 end-0 col-8 col-sm-8 mb-4">
                                 <div class="card-body d-flex p-3">
                                     <div class="icon icon-primary-light rounded-circle mb-4">
-                                        <a href="mailto:getstarted@codedoor.org?subject=Get Started CodeDoor&body=Hi Anna, I would like to learn more about CodeDoor and how to get started. Kind Regards"> <i class="bi bi-mailbox"></i></a>
+                                        <a href="mailto:getstarted@codedoor.org?subject=Get Started CodeDoor&body=Hi CodeDoor team, I would like to learn more about CodeDoor and how to get started. Kind Regards"> <i class="bi bi-mailbox"></i></a>
                                     </div>
                                     <div class="col ps-3">
-                                        <h6>Anna Helfrich</h6>
-                                        <p class="m-0">Senior Account Manager</p>
+                                        <h6>Contact us</h6>
+                                        <p class="m-0">CodeDoor team is happy to help</p>
                                     </div>
                                 </div>
                             </div>
