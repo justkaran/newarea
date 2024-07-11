@@ -66,7 +66,7 @@
                                 c/o CodeDoor.org e.V.<br>
                                 Liebigstraße 46<br>
                                 35392 Gießen<br>
-                                Telefon: 01773091847<br>
+                                Telefon: 01773091947<br>
                                 E-Mail: hello@codedoor.org<br>
                                 Internet: www.codedoor.com<br>
                                 <br><br>
